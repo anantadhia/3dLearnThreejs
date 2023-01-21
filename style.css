@@ -43,4 +43,5 @@ nav ul {
   left: 50%;
   top: 55%;
   transform: translate(-50%, -25%);
+  mix-blend-mode: color-dodge;
 }
