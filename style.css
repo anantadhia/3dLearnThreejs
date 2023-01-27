@@ -44,4 +44,11 @@ nav ul {
   top: 55%;
   transform: translate(-50%, -25%);
   mix-blend-mode: color-dodge;
+  transition: 500ms;
+  border-radius: 2rem;
+}
+.title:hover {
+  background-color: white;
+  color: black;
+  border-radius: 1rem;
 }
